@@ -8,6 +8,7 @@ This project automates the registration process on the Pet Store website using S
 - Java Development Kit (JDK) installed on your machine
 - WebDriver executable (e.g., ChromeDriver) compatible with your browser installed and its path added to the system PATH environment variable
 - Maven installed on your machine
+- Selenium and TestNG 
 
 ## Setup
 
