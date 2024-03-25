@@ -33,10 +33,10 @@ mvn clean install
 
 3. Replace the file path used in the `ReadCSVFile` constructor with the correct path to your CSV file or to file path in src folder:
 
-```java
 ReadCSVFile config = new ReadCSVFile("src/resource/Autotestdata.csv");```
 
-4. Register.java file contains test script to fill the details and automate registeration process
+4. The `Register.java` file contains the test script to fill the details and automate the registration process.
 
-5. ReadCSVFile is utility file to read CSV file 
+5. `ReadCSVFile` is a utility file used to read the CSV file.
+
 
