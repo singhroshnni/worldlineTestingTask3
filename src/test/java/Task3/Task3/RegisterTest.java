@@ -73,8 +73,8 @@ public class RegisterTest {
 
         Object[][] credentials = new Object[rows][12];
 
-        for (int i = 0; i < rows; ++i) {
-            // Populate each row of credentials array with data from CSV file
+        for (int i = 1; i < rows; ++i) {
+            // Getting each row of credentials array with data from CSV file
             credentials[i] = new String[]{
                 config.getData(i, 0), // uid
                 config.getData(i, 1), // pwd
