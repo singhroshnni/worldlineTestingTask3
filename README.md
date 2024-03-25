@@ -1,5 +1,5 @@
 # worldlineTestingTask3
-# Pet Store Registration Automation
+# Exploring Test Data Generation tool for Registration Automation
 
 This project automates the registration process on the Pet Store website using Selenium WebDriver and TestNG. It reads test data from a CSV file and fills the registration form with the provided data.It is an experiment conducted by exploring a case study or use case with one of the following Test Data Generation Tools i.e. GenerateData.com
 
